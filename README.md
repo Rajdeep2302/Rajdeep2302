@@ -61,11 +61,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rajdeep2302&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep2302&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rajdeep2302&theme=tokyonight" alt="rajdeep2302 GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rajdeep2302&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdeep2302&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
+
 
 ---
 
