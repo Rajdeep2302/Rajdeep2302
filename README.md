@@ -58,22 +58,18 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep2302&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <a src="https://streak-stats.demolab.com/?user=rajdeep2302&theme=tokyonight" alt="GitHub Streak" >Check GIthub report</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep2302&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdeep2302&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
-
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,java,python,cpp,tailwind,figma,git,github,linux,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mongodb,mysql,java,python,cpp,c,tailwind,figma,canva,git,github,linux,tensorflow,pytorch,vscode,rstudio,kotlin,xml,reactnative,pandas,numpy,matplotlib" />
 </p>
 
 ---
