@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Pal</h1>
 <h3 align="center">
   A passionate and detail-driven Computer Science undergraduate skilled in Full-Stack Development, AI/ML, and UI/UX Design.
-  With a record of excellence in national hackathons and an SRFP research internship at IIT Ropar, I'm driven to create impactful, scalable software solutions.
+  With a record of excellence in national hackathons and an SRFP research internship at IIT Ropar, I'm driven to create impactful, scalable software solutions. 
 </h3>
 
 <p align="center">
